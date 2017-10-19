@@ -1,7 +1,7 @@
-# vue-cli多页面应用
+# 媒体库插件
 > A Vue.js project
 
-### 文章地址：http://www.cnblogs.com/fengyuqing/p/vue_cli_webpack.html
+<!-- ### 文章地址：http://www.cnblogs.com/fengyuqing/p/vue_cli_webpack.html -->
 
 ## Build Setup
 
